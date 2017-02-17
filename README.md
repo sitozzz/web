@@ -33,12 +33,15 @@
 
 # Ссылки
 
+1. Ubuntu Minimal iso - https://help.ubuntu.com/community/Installation/MinimalCD
 1. Установка Ubuntu в VirtualBox для Windows - http://ru.wikihow.com/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-Ubuntu-%D0%B2-VirtualBox
-2. Установка веб-сервера LAMP и PhpMyAdmin в Ubuntu - https://librebay.blogspot.ru/2016/03/lamp-phpmyadmin-ubuntu-1604.html
-3. Командная строка в Ubuntu - http://help.ubuntu.ru/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0
-4. Основы веб-разработки (видеокурс) - https://www.youtube.com/watch?v=PsLzEAsphbM&list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ
-5. Web-технологии (видеокурс) - https://www.youtube.com/watch?v=Ys2CB4C2NWA&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a
-6. Администрирование Linux (видеокурс) - https://www.youtube.com/watch?v=dQjUH0kTq8w&list=PLrCZzMib1e9pun72f4KmFopzPs5pGB85_
+1. Установка веб-сервера LAMP и PhpMyAdmin в Ubuntu - https://librebay.blogspot.ru/2016/03/lamp-phpmyadmin-ubuntu-1604.html
+1. Командная строка в Ubuntu - http://help.ubuntu.ru/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0
+1. Основы веб-разработки (видеокурс) - https://www.youtube.com/watch?v=PsLzEAsphbM&list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ
+1. Web-технологии (видеокурс) - https://www.youtube.com/watch?v=Ys2CB4C2NWA&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a
+1. Администрирование Linux (видеокурс) - https://www.youtube.com/watch?v=dQjUH0kTq8w&list=PLrCZzMib1e9pun72f4KmFopzPs5pGB85_
+1. Linux console online emulator - http://minimal.linux-bg.org/emulator/
+1. Использование консоли Google Chrome - http://frontender.info/chrome-developer-tools/
 
 
 ЛИТЕРАТУРА
