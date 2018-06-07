@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Main page</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <h1>Welcome,
+        <span id="username"></span>
+        <img src='./img/logout.png' id="logout" />
+    </h1>
+    <div class="col-lg-6 search-form">
+        <div class="input-group">
+            <input type="text" id="search" class="form-control" placeholder="Search for...">
+            <span class="input-group-btn">
+                <button class="btn btn-secondary" type="button" id="new_chat">Go!</button>
+            </span>
+        </div>
+
+        <div id="search_advice_wrapper"></div>
+    </div>
+    <div class="shoutbox">
+        <h2>Your chats
+            <img src='./img/refresh.png' />
+        </h2>
+        <ul class="shoutbox-content" id="chat-container"></ul>
+    </div>
+
+
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/parse.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
